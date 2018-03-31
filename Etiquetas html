@@ -1,0 +1,19 @@
+
+ <body>
+  <h1>Tipos de listas</h1>
+   <h2>Lista ordenadas</h2>
+   <ol>
+   	<li>yo soy presencia</li>
+   	<ul>
+   		<li>carro</li><!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<meta name="viewpor" content="width=device-width,user-scalable=no">
+<title>Etiquetas para listas</title>
+ <head>
+ </head>
+   		<li>moto</li>
+   	</ul>
+   </ol>
+ </body>
+</html>
